@@ -2,7 +2,7 @@
 #export SNOWFLAKE_DEFAULT_CONNECTION_NAME="default"
 
 [default]
-account = "FA43590"
+account = "https://gk85364.ap-southeast-2.snowflakecomputing.com"
 user = "KCHAVALA"
 password = "Snowflake@SCHL123"
 role = "HOL_ROLE"
